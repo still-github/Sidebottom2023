@@ -38,7 +38,7 @@ public class SidebottomV3Tele extends OpMode
     double armPower = 0;
     double leftGripPower;
     double rightGripPower;
-
+    double githubtest;
     /*
      * Code to run ONCE when the driver hits INIT
      */
